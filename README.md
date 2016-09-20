@@ -4,4 +4,5 @@ First repository
 Hi Humans !
 
 
-Oliverkoffi82 there, I am interested in cyber security. I really want to learn more about programming.
+Oliverkoffi82 there, I like slq JavaScript and Ruby/rails.
+I played football with martians and I find them far more superior than humans.
